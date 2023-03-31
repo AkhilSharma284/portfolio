@@ -15,7 +15,7 @@
 .avatar img{
     margin-top: 1rem;
     border: 6px solid;
-    border-radius: 46%;
+    border-radius: 90%;
     height: 25rem;
     width: 25rem;
     object-fit: contain;
